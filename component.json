@@ -1,0 +1,10 @@
+{
+  "name": "example-grunt-bower",
+  "version": "0.1.0",
+  "dependencies": {
+    "jquery": "#1.9.1",
+    "underscore": "#1.4.4",
+    "example-bower-package": "https://github.com/netzzwerg/example-bower-package.git"
+  },
+  "readmeFilename": "README.md"
+}

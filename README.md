@@ -1,4 +1,3 @@
-example-grunt-bower
-===================
+Example project for testing bower with grunt.
+-----------------------------------------
 
-example-grunt-bower

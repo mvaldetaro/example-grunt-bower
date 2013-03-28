@@ -1,0 +1,17 @@
+{
+  "name": "example-grunt-bower",
+  "version": "0.1.0",
+  "author": {
+    "name": "bvarga"
+  },
+  "description": "Example project for testing twitter bower with grunt.",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "grunt": "0.4.1",
+    "bower": "0.8.5",
+    "grunt-bower-task": "0.1.1"
+  },
+  "readmeFilename": "README.md"
+}
