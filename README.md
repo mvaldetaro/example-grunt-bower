@@ -1,6 +1,7 @@
+![image](doc/gruntbower.png)
+
 Example project for testing bower with grunt.
 -----------------------------------------
-
 
 ```component.json``` of this project
 
@@ -36,4 +37,6 @@ no dependencies are shared between different apps, and the dependency tree is fl
 
 So we have here jquery and underscore twice as dependency with different versions.
 Bower takes in this situation the best version for both.
+
+![image](doc/bower001.png)
 
