@@ -1,4 +1,3 @@
-
 # Example project for testing bower with grunt.
 
 ![image](doc/gruntbower.png)
@@ -67,11 +66,8 @@ The `component.json` defines several options:
 }
 ```
 
-Twitter Bower has no system wide dependencies, 
-no dependencies are shared between different apps, and the dependency tree is flat.
-
-So we have here jquery and underscore twice as dependency with different versions.
-Bower takes in this situation the best version for both.
+Twitter Bower has no system wide dependencies,no dependencies are shared between different apps, and the dependency tree is flat. So we have here jquery and underscore twice as dependency with different versions.
+Bower takes in this situation the hightest version for both.
 
 ![image](doc/bower001.png)
 
