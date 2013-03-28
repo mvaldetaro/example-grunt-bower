@@ -33,6 +33,17 @@ The `component.json` defines several options:
 
 * `dependencies` [hash]: Packages your package depends upon in production.
 
+Usage of version numbers:
+
+* `>1.2.3` Greater than a specific version.
+* `<1.2.3` Less than
+* `1.2.3 - 2.3.4` := `>=1.2.3 <=2.3.4`
+* `~1.2.3` := `>=1.2.3 <1.3.0`
+* `~1.2` := `>=1.2.0 <1.3.0`
+* `~1` := `>=1.0.0 <2.0.0`
+* `1.2.x` := `>=1.2.0 <1.3.0`
+* `1.x` := `>=1.0.0 <2.0.0`
+
 * `devDependencies` [hash]: Development dependencies.
 
 ## Example Project Setup
