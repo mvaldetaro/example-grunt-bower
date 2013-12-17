@@ -1,4 +1,5 @@
 
+
 # Example project for testing bower with grunt.
 
 ![image](doc/gruntbower.png)
